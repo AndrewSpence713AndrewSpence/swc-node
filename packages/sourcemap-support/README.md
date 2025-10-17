@@ -11,3 +11,5 @@ function transform(sourcecode, filename, options) {
   return code
 }
 ```
+
+<!-- Auto-update: 2025-10-17T14:24:45.869497 -->
