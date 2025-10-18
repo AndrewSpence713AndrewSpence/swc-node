@@ -146,3 +146,5 @@ Detail: [@swc-node/register](./packages/register)
 <p align="center">
   <img src="https://sponsors.lyn.one/sponsors.svg" alt="sponsors" />
 </p>
+
+<!-- Auto-update: 2025-10-18T08:27:22.106292 -->
